@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pattern Test</string>
+    <string name="remember_the_pattern_and_tap">Remember the pattern and tap!</string>
+    <string name="start">Start</string>
+    <string name="reset">Reset</string>
+    <string name="wrong_resetting">Wrong. Resetting...</string>
+    <string name="congrats_hit_reset_before_playing_again">Congrats! Hit RESET before playing again.</string>
+</resources>
